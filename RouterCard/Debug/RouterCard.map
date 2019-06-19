@@ -1,0 +1,1648 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_divmodsi4.o)
+                              MotorSystems/LeftMotorFunctions.o (__divmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_negsi2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_divmodsi4.o) (__negsi2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/at90can128/avr51/crtat90can128.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_tablejump2.o)
+                              LEDs.o (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+                              Init.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+                              AT90CAN_UART.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3.o)
+                              Timer.o (__adddi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3_s8.o)
+                              Timer.o (__adddi3_s8)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+                              Timer.o (__cmpdi2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(malloc.o)
+                              AT90CAN_UART.o (malloc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(memcpy.o)
+                              AT90CAN_UART.o (memcpy)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(iob.o)
+                              Init.o (__iob)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(puts.o)
+                              Init.o (puts)
+
+Allocating common symbols
+Common symbol       size              file
+
+previousMacroCommand
+                    0x2               commsReceive.o
+TransmitBuffer      0xba              CANFastTransfer.o
+previousMacroSubCommand
+                    0x2               commsReceive.o
+sendBackTimer       0x10              commsReceive.o
+Receive1            0x64              FastTransfer.o
+commsTimer          0x10              commsReceive.o
+sendStructAddress0  0x2               commsReceive.o
+AKNAKsend0          0x1               commsReceive.o
+ReceiveBufferBeacon
+                    0x56              CANFastTransfer.o
+ring_buffer1        0xce              commsReceive.o
+ReceiveBufferControl
+                    0x56              CANFastTransfer.o
+UART1_TX_Buffer     0xe               AT90CAN_UART.o
+prevConveyorCommand
+                    0x2               commsReceive.o
+prevRightMotorCommand
+                    0x2               commsReceive.o
+receiveArray0       0x64              commsReceive.o
+ring_buffer0        0xce              commsReceive.o
+commsTimerBeacon    0x10              commsReceive.o
+serial_peek1        0x2               commsReceive.o
+Bucket_Buffer_To_Beacon
+                    0x24              QueueCANtoUART.o
+Navigation_Buffer_To_Beacon
+                    0x24              QueueCANtoUART.o
+rx_buffer1          0xfa              commsReceive.o
+serial_available1   0x2               commsReceive.o
+Navigation_Buffer_To_ControlBox
+                    0x24              QueueCANtoUART.o
+serial_read1        0x2               commsReceive.o
+smallDelayTimer     0x10              MotorSystems/Motor.o
+alignErrorCounter1  0x2               commsReceive.o
+maxDataAddress0     0x1               commsReceive.o
+addressErrorCounter1
+                    0x2               commsReceive.o
+beaconPollTimer     0x10              commsReceive.o
+group               0x2               commsReceive.o
+ring_buffer_CAN_Beacon
+                    0x56              CANFastTransfer.o
+Bucket_Buffer_To_ControlBox
+                    0x24              QueueCANtoUART.o
+receiveArrayAddress0
+                    0x2               commsReceive.o
+Sensor_Buffer_To_Beacon
+                    0x24              QueueCANtoUART.o
+calc_CS1            0x1               commsReceive.o
+lidarAngle          0x2               commsReceive.o
+rx_address0         0x1               commsReceive.o
+prevBucketCommand   0x2               commsReceive.o
+serial_read0        0x2               commsReceive.o
+rx_array_inx1       0x1               commsReceive.o
+crc_buffer1         0x11              commsReceive.o
+ReceiveCAN          0x14              CANFastTransfer.o
+serial_write1       0x2               commsReceive.o
+lidarDistance       0x2               commsReceive.o
+rx_address1         0x1               commsReceive.o
+Sensor_Buffer_To_ControlBox
+                    0x24              QueueCANtoUART.o
+__brkval            0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(malloc.o)
+moduleAddress0      0x1               commsReceive.o
+addressErrorCounter0
+                    0x2               commsReceive.o
+resendMotorTimerLeft
+                    0x10              commsReceive.o
+assembled           0x4               MotorSystems/MotorSubfunctions.o
+resendMotorTimerRight
+                    0x10              commsReceive.o
+moduleAddressCAN    0x1               CANFastTransfer.o
+sendStructAddress1  0x2               commsReceive.o
+leftMotorCommand    0x2               commsReceive.o
+MouseGyro_Buffer_To_ControlBox
+                    0x24              QueueCANtoUART.o
+safetyTimer         0x10              commsReceive.o
+receiveArray1       0x64              commsReceive.o
+dataAdressErrorCounter1
+                    0x2               commsReceive.o
+ControlBox_Buffer_To_Beacon
+                    0x24              QueueCANtoUART.o
+alignErrorCounter0  0x2               commsReceive.o
+ConveyorMotor_Buffer
+                    0xe               commsReceive.o
+RightMotor_Buffer   0xe               commsReceive.o
+rx_buffer0          0xfa              commsReceive.o
+crc_buffer0         0x11              commsReceive.o
+rx_len1             0x1               commsReceive.o
+serial_write0       0x2               commsReceive.o
+canlist             0x1e              can.o
+Beacon_Buffer_To_ControlBox
+                    0x24              QueueCANtoUART.o
+returnAddress1      0x1               commsReceive.o
+lidarHeading        0x2               commsReceive.o
+MouseGyro_Buffer_To_Beacon
+                    0x24              QueueCANtoUART.o
+crcErrorCounter0    0x2               commsReceive.o
+Router_Buffer_To_Beacon
+                    0x24              QueueCANtoUART.o
+delayTimer          0x10              MotorSystems/Motor.o
+ledTimer            0x10              main.o
+ring_buffer_CAN     0x56              CANFastTransfer.o
+Debugger_Buffer_To_Beacon
+                    0x24              QueueCANtoUART.o
+maxDataAddress1     0x1               commsReceive.o
+bucketMotorCommand  0x2               commsReceive.o
+received1           0x1               AT90CAN_UART.o
+conveyorMotorCommand
+                    0x2               commsReceive.o
+receiveArrayAddressCAN
+                    0x2               CANFastTransfer.o
+Debugger_Buffer_To_ControlBox
+                    0x24              QueueCANtoUART.o
+serial_available0   0x2               commsReceive.o
+UART0_TX_Buffer     0xe               AT90CAN_UART.o
+resendMotorTimerBucket
+                    0x10              commsReceive.o
+Receive0            0x64              FastTransfer.o
+moduleAddress1      0x1               commsReceive.o
+mouseGyroTimer      0x10              commsReceive.o
+BucketMotor_Buffer  0xe               commsReceive.o
+calc_CS0            0x1               commsReceive.o
+ring_buffer_CAN_Control
+                    0x56              CANFastTransfer.o
+UART1_RX_Buffer     0xe               AT90CAN_UART.o
+ReceiveBuffer       0x56              CANFastTransfer.o
+prevLeftMotorCommand
+                    0x2               commsReceive.o
+stuff               0x2               commsReceive.o
+serial_peek0        0x2               commsReceive.o
+motorRampTimer      0x10              main.o
+LeftMotor_Buffer    0xe               commsReceive.o
+AKNAKsend1          0x1               commsReceive.o
+lidarDisplacement   0x2               commsReceive.o
+rx_len0             0x1               commsReceive.o
+__flp               0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(malloc.o)
+MaxIndex            0x2               CANFastTransfer.o
+crcErrorCounter1    0x2               commsReceive.o
+UART0_RX_Buffer     0xe               AT90CAN_UART.o
+receiveArrayAddress1
+                    0x2               commsReceive.o
+received0           0x1               AT90CAN_UART.o
+checkCANTimer       0x10              main.o
+__iob               0x6               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(iob.o)
+returnAddress0      0x1               commsReceive.o
+rx_array_inx0       0x1               commsReceive.o
+rightMotorCommand   0x2               commsReceive.o
+Router_Buffer_To_ControlBox
+                    0x24              QueueCANtoUART.o
+received            0x1               AT90CAN_UART.o
+dataAdressErrorCounter0
+                    0x2               commsReceive.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/at90can128/avr51/crtat90can128.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/at90can128/avr51/crtat90can128.o
+ .text          0x00000000        0x0 AT90CAN_UART.o
+ .data          0x00000000        0x0 AT90CAN_UART.o
+ .bss           0x00000000        0x0 AT90CAN_UART.o
+ .text.cb_free  0x00000000        0xc AT90CAN_UART.o
+ .text.USART0_Flush
+                0x00000000       0x3c AT90CAN_UART.o
+ .text.USART1_Flush
+                0x00000000       0x3c AT90CAN_UART.o
+ .text          0x00000000        0x0 can.o
+ .data          0x00000000        0x0 can.o
+ .bss           0x00000000        0x0 can.o
+ .text          0x00000000        0x0 CANFastTransfer.o
+ .data          0x00000000        0x0 CANFastTransfer.o
+ .bss           0x00000000        0x0 CANFastTransfer.o
+ .text.SetReceiveMode
+                0x00000000       0x10 CANFastTransfer.o
+ .text.GetTransmitErrorCount
+                0x00000000        0xa CANFastTransfer.o
+ .text.ToSendCAN_Control
+                0x00000000       0x10 CANFastTransfer.o
+ .text.ToSendCAN_Beacon
+                0x00000000       0x10 CANFastTransfer.o
+ .text.ReceiveDataCAN
+                0x00000000       0x86 CANFastTransfer.o
+ .text.sendDataCAN_Control
+                0x00000000       0x80 CANFastTransfer.o
+ .text.sendDataCAN_Beacon
+                0x00000000       0x80 CANFastTransfer.o
+ .text.Send_buffer_flush
+                0x00000000       0x26 CANFastTransfer.o
+ .text.Send_buffer_modulo_inc
+                0x00000000        0xe CANFastTransfer.o
+ .text.Send_buffer_GetCount
+                0x00000000        0xc CANFastTransfer.o
+ .text.Transmit_buffer_GetCount
+                0x00000000        0xc CANFastTransfer.o
+ .text          0x00000000        0x0 commsReceive.o
+ .data          0x00000000        0x0 commsReceive.o
+ .bss           0x00000000        0x0 commsReceive.o
+ .text.updateCommsBeacon
+                0x00000000       0x72 commsReceive.o
+ .text.manualMode
+                0x00000000       0x12 commsReceive.o
+ .text.getLeftMotorCommand
+                0x00000000        0xa commsReceive.o
+ .text.getRightMotorCommand
+                0x00000000        0xa commsReceive.o
+ .text.getConveyorMotorCommand
+                0x00000000        0xa commsReceive.o
+ .text.getBucketMotorCommand
+                0x00000000        0xa commsReceive.o
+ .text.getMacroCommand
+                0x00000000        0xa commsReceive.o
+ .text.getMacroSubCommand
+                0x00000000        0xa commsReceive.o
+ .text          0x00000000        0x0 FastTransfer.o
+ .data          0x00000000        0x0 FastTransfer.o
+ .bss           0x00000000        0x0 FastTransfer.o
+ .text.getReceiveArray0
+                0x00000000        0x6 FastTransfer.o
+ .text.wipeRxBuffer0
+                0x00000000       0x12 FastTransfer.o
+ .text.FastTransfer_buffer_put0
+                0x00000000       0xb4 FastTransfer.o
+ .text.ToSend0  0x00000000        0xe FastTransfer.o
+ .text.FastTransfer_buffer_get0
+                0x00000000       0x48 FastTransfer.o
+ .text.FastTransfer_buffer_get1
+                0x00000000       0x48 FastTransfer.o
+ .text.FastTransfer_buffer_flush0
+                0x00000000       0x18 FastTransfer.o
+ .text.FastTransfer_buffer_flush1
+                0x00000000       0x18 FastTransfer.o
+ .text.FastTransfer_buffer_modulo_inc
+                0x00000000        0xe FastTransfer.o
+ .text.alignError0
+                0x00000000        0xa FastTransfer.o
+ .text.alignError1
+                0x00000000        0xa FastTransfer.o
+ .text.CRCError0
+                0x00000000        0xa FastTransfer.o
+ .text.CRCError1
+                0x00000000        0xa FastTransfer.o
+ .text.addressError10
+                0x00000000        0xa FastTransfer.o
+ .text.addressError1
+                0x00000000        0xa FastTransfer.o
+ .text.dataAddressError0
+                0x00000000        0xa FastTransfer.o
+ .text.dataAddressError1
+                0x00000000        0xa FastTransfer.o
+ .text.sendData0
+                0x00000000       0xd8 FastTransfer.o
+ .text.AKNAK1   0x00000000       0x34 FastTransfer.o
+ .text.receiveData0
+                0x00000000      0x37e FastTransfer.o
+ .text          0x00000000        0x0 Init.o
+ .data          0x00000000        0x0 Init.o
+ .bss           0x00000000        0x0 Init.o
+ .text          0x00000000        0x0 InputButtons.o
+ .data          0x00000000        0x0 InputButtons.o
+ .bss           0x00000000        0x0 InputButtons.o
+ .text.buttonPressed
+                0x00000000       0x46 InputButtons.o
+ .text          0x00000000        0x0 LEDs.o
+ .data          0x00000000        0x0 LEDs.o
+ .bss           0x00000000        0x0 LEDs.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 MotorSystems/LeftMotorFunctions.o
+ .data          0x00000000        0x0 MotorSystems/LeftMotorFunctions.o
+ .bss           0x00000000        0x0 MotorSystems/LeftMotorFunctions.o
+ .text.LeftMotor_Status
+                0x00000000        0xc MotorSystems/LeftMotorFunctions.o
+ .text.LeftMotor_GetTemperature
+                0x00000000       0x90 MotorSystems/LeftMotorFunctions.o
+ .text.LeftMotor_GetVoltage
+                0x00000000       0x92 MotorSystems/LeftMotorFunctions.o
+ .text.LeftMotor_GetPos
+                0x00000000       0xa6 MotorSystems/LeftMotorFunctions.o
+ .text.LeftMotor_ReEstablishComms
+                0x00000000      0x2fa MotorSystems/LeftMotorFunctions.o
+ .text          0x00000000        0x0 MotorSystems/Motor.o
+ .data          0x00000000        0x0 MotorSystems/Motor.o
+ .bss           0x00000000        0x0 MotorSystems/Motor.o
+ .text.testOpenLoopCommandsLeftAndRightTurn
+                0x00000000       0xa8 MotorSystems/Motor.o
+ .bss.leftMotorReboot
+                0x00000000        0x1 MotorSystems/Motor.o
+ .text          0x00000000        0x0 MotorSystems/MotorSubfunctions.o
+ .data          0x00000000        0x0 MotorSystems/MotorSubfunctions.o
+ .bss           0x00000000        0x0 MotorSystems/MotorSubfunctions.o
+ .text.SendNoVerify
+                0x00000000       0x90 MotorSystems/MotorSubfunctions.o
+ .text.ArrayToLong
+                0x00000000       0x36 MotorSystems/MotorSubfunctions.o
+ .text.ConveyorMotor_Status
+                0x00000000       0x1c MotorSystems/MotorSubfunctions.o
+ .text.BucketMotor_Status
+                0x00000000       0x18 MotorSystems/MotorSubfunctions.o
+ .text.ConveyorMotor_SetCurrent
+                0x00000000       0xb8 MotorSystems/MotorSubfunctions.o
+ .text.BucketMotor_PosMode
+                0x00000000       0xda MotorSystems/MotorSubfunctions.o
+ .text.BucketMotor_SetVel
+                0x00000000       0xb2 MotorSystems/MotorSubfunctions.o
+ .text.BucketMotor_MoveCounts
+                0x00000000       0x50 MotorSystems/MotorSubfunctions.o
+ .text.BucketMotor_MoveCountsNoCommsSafety
+                0x00000000       0x72 MotorSystems/MotorSubfunctions.o
+ .text.ConveyorMotor_GetTemperature
+                0x00000000       0x90 MotorSystems/MotorSubfunctions.o
+ .text.BucketMotor_GetTemperature
+                0x00000000       0x8e MotorSystems/MotorSubfunctions.o
+ .text.ConveyorMotor_GetVoltage
+                0x00000000       0x92 MotorSystems/MotorSubfunctions.o
+ .text.BucketMotor_GetVoltage
+                0x00000000       0x90 MotorSystems/MotorSubfunctions.o
+ .text.ConveyorMotor_GetPos
+                0x00000000       0xa6 MotorSystems/MotorSubfunctions.o
+ .text.BucketMotor_GetPos
+                0x00000000       0xa4 MotorSystems/MotorSubfunctions.o
+ .text.BucketMotor_Inputs
+                0x00000000       0x7e MotorSystems/MotorSubfunctions.o
+ .text.ConveyorMotor_ReEstablishComms
+                0x00000000      0x146 MotorSystems/MotorSubfunctions.o
+ .text.BucketMotor_ReEstablishComms
+                0x00000000      0x228 MotorSystems/MotorSubfunctions.o
+ .text.setMotorStatus
+                0x00000000        0xc MotorSystems/MotorSubfunctions.o
+ .text.getMotorStatus
+                0x00000000        0x6 MotorSystems/MotorSubfunctions.o
+ COMMON         0x00000000        0x4 MotorSystems/MotorSubfunctions.o
+ .text          0x00000000        0x0 MotorSystems/RightMotorFunctions.o
+ .data          0x00000000        0x0 MotorSystems/RightMotorFunctions.o
+ .bss           0x00000000        0x0 MotorSystems/RightMotorFunctions.o
+ .text.RightMotor_Status
+                0x00000000        0xc MotorSystems/RightMotorFunctions.o
+ .text.RightMotor_GetTemperature
+                0x00000000       0x90 MotorSystems/RightMotorFunctions.o
+ .text.RightMotor_GetVoltage
+                0x00000000       0x92 MotorSystems/RightMotorFunctions.o
+ .text.RightMotor_GetPos
+                0x00000000       0xa6 MotorSystems/RightMotorFunctions.o
+ .text.RightMotor_ReEstablishComms
+                0x00000000      0x2fa MotorSystems/RightMotorFunctions.o
+ .text          0x00000000        0x0 PointerList.o
+ .data          0x00000000        0x0 PointerList.o
+ .bss           0x00000000        0x0 PointerList.o
+ .text.List_Push
+                0x00000000       0xa2 PointerList.o
+ .text.List_Pop
+                0x00000000       0x78 PointerList.o
+ .text.List_Free
+                0x00000000       0x16 PointerList.o
+ .text          0x00000000        0x0 QueueCANtoUART.o
+ .data          0x00000000        0x0 QueueCANtoUART.o
+ .bss           0x00000000        0x0 QueueCANtoUART.o
+ .text.Queue_buffer_put
+                0x00000000       0x9a QueueCANtoUART.o
+ .text.Send_Queue_ControlBox_put
+                0x00000000       0x6c QueueCANtoUART.o
+ .progmem.gcc_sw_table.Send_Queue_ControlBox_put
+                0x00000000        0xe QueueCANtoUART.o
+ .text.Send_Queue_Beacon_put
+                0x00000000       0x6c QueueCANtoUART.o
+ .progmem.gcc_sw_table.Send_Queue_Beacon_put
+                0x00000000       0x10 QueueCANtoUART.o
+ .text.Queue_buffer_get
+                0x00000000       0x38 QueueCANtoUART.o
+ .text.Send_Queue_ControlBox_send
+                0x00000000      0x2e4 QueueCANtoUART.o
+ .progmem.gcc_sw_table.Send_Queue_ControlBox_send
+                0x00000000        0xe QueueCANtoUART.o
+ .text.Queue_buffer_flush
+                0x00000000       0x1e QueueCANtoUART.o
+ .text.Queue_buffer_modulo_inc
+                0x00000000        0xe QueueCANtoUART.o
+ .debug_info    0x00000000      0xed1 QueueCANtoUART.o
+ .debug_abbrev  0x00000000      0x256 QueueCANtoUART.o
+ .debug_loc     0x00000000      0xb5a QueueCANtoUART.o
+ .debug_aranges
+                0x00000000       0x50 QueueCANtoUART.o
+ .debug_ranges  0x00000000       0xf0 QueueCANtoUART.o
+ .debug_line    0x00000000      0x565 QueueCANtoUART.o
+ .debug_str     0x00000000      0x6a5 QueueCANtoUART.o
+ .comment       0x00000000       0x31 QueueCANtoUART.o
+ .debug_frame   0x00000000       0xa0 QueueCANtoUART.o
+ COMMON         0x00000000      0x1f8 QueueCANtoUART.o
+ .text          0x00000000        0x0 SDO.o
+ .data          0x00000000        0x0 SDO.o
+ .bss           0x00000000        0x0 SDO.o
+ .text.SDOWritePacketFUll
+                0x00000000       0x66 SDO.o
+ .text          0x00000000        0x0 Timer.o
+ .data          0x00000000        0x0 Timer.o
+ .bss           0x00000000        0x0 Timer.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_divmodsi4.o)
+ .text.libgcc.div
+                0x00000000       0x2e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_negsi2.o)
+ .text.libgcc.div
+                0x00000000       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3_s8.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3_s8.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3_s8.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x00000000       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(malloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(malloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(memcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(iob.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(iob.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(iob.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(puts.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(puts.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(puts.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800100         0x0000ff00         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/at90can128/avr51/crtat90can128.o
+LOAD AT90CAN_UART.o
+LOAD can.o
+LOAD CANFastTransfer.o
+LOAD commsReceive.o
+LOAD FastTransfer.o
+LOAD Init.o
+LOAD InputButtons.o
+LOAD LEDs.o
+LOAD main.o
+LOAD MotorSystems/LeftMotorFunctions.o
+LOAD MotorSystems/Motor.o
+LOAD MotorSystems/MotorSubfunctions.o
+LOAD MotorSystems/RightMotorFunctions.o
+LOAD PointerList.o
+LOAD QueueCANtoUART.o
+LOAD SDO.o
+LOAD Timer.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/at90can128/avr51\libat90can128.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ff00                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xff00
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                0x00000400                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x4420
+ *(.vectors)
+ .vectors       0x00000000       0x94 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/at90can128/avr51/crtat90can128.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.setLED
+                0x00000094       0x30 LEDs.o
+ .progmem.gcc_sw_table.toggleLED
+                0x000000c4       0x18 LEDs.o
+                0x000000dc                . = ALIGN (0x2)
+                0x000000dc                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000dc        0x0 linker stubs
+ *(.trampolines*)
+                0x000000dc                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x000000dc                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000dc                __ctors_start = .
+ *(.ctors)
+                0x000000dc                __ctors_end = .
+                0x000000dc                __dtors_start = .
+ *(.dtors)
+                0x000000dc                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000dc        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/at90can128/avr51/crtat90can128.o
+                0x000000dc                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000dc        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/at90can128/avr51/crtat90can128.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000e8       0x1a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+                0x000000e8                __do_copy_data
+ .init4         0x00000102       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+                0x00000102                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000112        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/at90can128/avr51/crtat90can128.o
+ *(.init9)
+ *(.text)
+ .text          0x0000011a        0x2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/at90can128/avr51/crtat90can128.o
+                0x0000011a                __vector_28
+                0x0000011a                __vector_1
+                0x0000011a                __vector_24
+                0x0000011a                __vector_12
+                0x0000011a                __bad_interrupt
+                0x0000011a                __vector_6
+                0x0000011a                __vector_31
+                0x0000011a                __vector_35
+                0x0000011a                __vector_3
+                0x0000011a                __vector_23
+                0x0000011a                __vector_30
+                0x0000011a                __vector_25
+                0x0000011a                __vector_11
+                0x0000011a                __vector_13
+                0x0000011a                __vector_19
+                0x0000011a                __vector_7
+                0x0000011a                __vector_27
+                0x0000011a                __vector_5
+                0x0000011a                __vector_4
+                0x0000011a                __vector_9
+                0x0000011a                __vector_2
+                0x0000011a                __vector_15
+                0x0000011a                __vector_36
+                0x0000011a                __vector_29
+                0x0000011a                __vector_8
+                0x0000011a                __vector_26
+                0x0000011a                __vector_14
+                0x0000011a                __vector_10
+                0x0000011a                __vector_16
+                0x0000011a                __vector_20
+                0x0000011c                . = ALIGN (0x2)
+ *(.text.*)
+ .text.cb_init  0x0000011c       0x60 AT90CAN_UART.o
+                0x0000011c                cb_init
+ .text.cb_push_back
+                0x0000017c       0x56 AT90CAN_UART.o
+                0x0000017c                cb_push_back
+ .text.cb_pop_front
+                0x000001d2       0x52 AT90CAN_UART.o
+                0x000001d2                cb_pop_front
+ .text.cb_peek_front
+                0x00000224       0x12 AT90CAN_UART.o
+                0x00000224                cb_peek_front
+ .text.cb_size  0x00000236        0x8 AT90CAN_UART.o
+                0x00000236                cb_size
+ .text.USART0_Init
+                0x0000023e       0xa4 AT90CAN_UART.o
+                0x0000023e                USART0_Init
+ .text.USART1_Init
+                0x000002e2       0xa4 AT90CAN_UART.o
+                0x000002e2                USART1_Init
+ .text.USART0_put_C
+                0x00000386       0x3c AT90CAN_UART.o
+                0x00000386                USART0_put_C
+ .text.USART1_put_C
+                0x000003c2       0x3c AT90CAN_UART.o
+                0x000003c2                USART1_put_C
+ .text.USART1_get_C
+                0x000003fe       0x20 AT90CAN_UART.o
+                0x000003fe                USART1_get_C
+ .text.USART0_get_C
+                0x0000041e       0x20 AT90CAN_UART.o
+                0x0000041e                USART0_get_C
+ .text.USART0_peek_C
+                0x0000043e       0x20 AT90CAN_UART.o
+                0x0000043e                USART0_peek_C
+ .text.USART1_peek_C
+                0x0000045e       0x20 AT90CAN_UART.o
+                0x0000045e                USART1_peek_C
+ .text.USART0_Available
+                0x0000047e        0xa AT90CAN_UART.o
+                0x0000047e                USART0_Available
+ .text.USART1_Available
+                0x00000488        0xa AT90CAN_UART.o
+                0x00000488                USART1_Available
+ .text.__vector_33
+                0x00000492       0x88 AT90CAN_UART.o
+                0x00000492                __vector_33
+ .text.__vector_22
+                0x0000051a       0x88 AT90CAN_UART.o
+                0x0000051a                __vector_22
+ .text.__vector_34
+                0x000005a2       0x14 AT90CAN_UART.o
+                0x000005a2                __vector_34
+ .text.__vector_32
+                0x000005b6       0x5e AT90CAN_UART.o
+                0x000005b6                __vector_32
+ .text.__vector_21
+                0x00000614       0x5e AT90CAN_UART.o
+                0x00000614                __vector_21
+ .text.__vector_18
+                0x00000672      0x296 can.o
+                0x00000672                __vector_18
+ .text.can_tx_kick
+                0x00000908      0x106 can.o
+                0x00000908                can_tx_kick
+ .text.can_tx   0x00000a0e       0xd2 can.o
+                0x00000a0e                can_tx
+ .text.prepare_rx
+                0x00000ae0       0xe8 can.o
+                0x00000ae0                prepare_rx
+ .text.prepare_tx
+                0x00000bc8       0xa0 can.o
+                0x00000bc8                prepare_tx
+ .text.can_init
+                0x00000c68       0x4c can.o
+                0x00000c68                can_init
+ .text.Send_buffer_put
+                0x00000cb4       0x74 CANFastTransfer.o
+                0x00000cb4                Send_buffer_put
+ .text.ReceiveCANFast
+                0x00000d28      0x20a CANFastTransfer.o
+                0x00000d28                ReceiveCANFast
+ .text.ToSendCAN
+                0x00000f32        0xc CANFastTransfer.o
+                0x00000f32                ToSendCAN
+ .text.Transmit_buffer_put
+                0x00000f3e       0xc4 CANFastTransfer.o
+                0x00000f3e                Transmit_buffer_put
+ .text.Send_buffer_get
+                0x00001002       0x50 CANFastTransfer.o
+                0x00001002                Send_buffer_get
+ .text.sendDataCAN
+                0x00001052       0x78 CANFastTransfer.o
+                0x00001052                sendDataCAN
+ .text.Transmit_buffer_get
+                0x000010ca       0x50 CANFastTransfer.o
+                0x000010ca                Transmit_buffer_get
+ .text.Transmit_buffer_peek
+                0x0000111a       0x2c CANFastTransfer.o
+                0x0000111a                Transmit_buffer_peek
+ .text.Transmit_buffer_flush
+                0x00001146       0x26 CANFastTransfer.o
+                0x00001146                Transmit_buffer_flush
+ .text.beginCANFast
+                0x0000116c       0x6a CANFastTransfer.o
+                0x0000116c                beginCANFast
+ .text.initCANFastTransfer
+                0x000011d6        0xe CANFastTransfer.o
+                0x000011d6                initCANFastTransfer
+ .text.TransmitCANFast
+                0x000011e4      0x18a CANFastTransfer.o
+                0x000011e4                TransmitCANFast
+ .text.parseComms
+                0x0000136e       0xba commsReceive.o
+                0x0000136e                parseComms
+ .text.updateComms
+                0x00001428      0x2ba commsReceive.o
+                0x00001428                updateComms
+ .text.setupCommsTimers
+                0x000016e2       0xd2 commsReceive.o
+                0x000016e2                setupCommsTimers
+ .text.setMacroCommand
+                0x000017b4        0xa commsReceive.o
+                0x000017b4                setMacroCommand
+ .text.setMacroSubCommand
+                0x000017be        0xa commsReceive.o
+                0x000017be                setMacroSubCommand
+ .text.getReceiveArray1
+                0x000017c8        0x6 FastTransfer.o
+                0x000017c8                getReceiveArray1
+ .text.wipeRxBuffer1
+                0x000017ce       0x12 FastTransfer.o
+                0x000017ce                wipeRxBuffer1
+ .text.begin0   0x000017e0       0x6e FastTransfer.o
+                0x000017e0                begin0
+ .text.begin1   0x0000184e       0x6e FastTransfer.o
+                0x0000184e                begin1
+ .text.initFastTransfer
+                0x000018bc       0x8a FastTransfer.o
+                0x000018bc                initFastTransfer
+ .text.CRC8     0x00001946       0x2e FastTransfer.o
+                0x00001946                CRC8
+ .text.FastTransfer_buffer_put1
+                0x00001974       0xb4 FastTransfer.o
+                0x00001974                FastTransfer_buffer_put1
+ .text.ToSend1  0x00001a28        0xc FastTransfer.o
+                0x00001a28                ToSend1
+ .text.crcBufS_put
+                0x00001a34       0x36 FastTransfer.o
+                0x00001a34                crcBufS_put
+ .text.sendData1
+                0x00001a6a       0xd4 FastTransfer.o
+                0x00001a6a                sendData1
+ .text.crcBufS_status_put
+                0x00001b3e       0x3a FastTransfer.o
+                0x00001b3e                crcBufS_status_put
+ .text.crcBufS_get
+                0x00001b78       0x46 FastTransfer.o
+                0x00001b78                crcBufS_get
+ .text.CRCcheck
+                0x00001bbe       0xd6 FastTransfer.o
+                0x00001bbe                CRCcheck
+ .text.receiveData1
+                0x00001c94      0x396 FastTransfer.o
+                0x00001c94                receiveData1
+ .text.initialize
+                0x0000202a      0x106 Init.o
+                0x0000202a                initialize
+ .text.buttonsInputTest
+                0x00002130       0xde InputButtons.o
+                0x00002130                buttonsInputTest
+ .text.setLED   0x0000220e       0xce LEDs.o
+                0x0000220e                setLED
+ .text.toggleLED
+                0x000022dc       0x66 LEDs.o
+                0x000022dc                toggleLED
+ .text.main     0x00002342       0x30 main.o
+                0x00002342                main
+ .text.ReceiveMotor1
+                0x00002372       0x10 MotorSystems/LeftMotorFunctions.o
+                0x00002372                ReceiveMotor1
+ .text.LeftMotor_Init
+                0x00002382      0x2fe MotorSystems/LeftMotorFunctions.o
+                0x00002382                LeftMotor_Init
+ .text.LeftMotor_VelMode
+                0x00002680       0xb0 MotorSystems/LeftMotorFunctions.o
+                0x00002680                LeftMotor_VelMode
+ .text.LeftMotor_SetVel
+                0x00002730       0x8c MotorSystems/LeftMotorFunctions.o
+                0x00002730                LeftMotor_SetVel
+ .text.LeftMotor_SetVelNoCommsSafety
+                0x000027bc       0x92 MotorSystems/LeftMotorFunctions.o
+                0x000027bc                LeftMotor_SetVelNoCommsSafety
+ .text.LeftMotor_GetPosReached
+                0x0000284e       0x84 MotorSystems/LeftMotorFunctions.o
+                0x0000284e                LeftMotor_GetPosReached
+ .text.initMotors
+                0x000028d2       0x24 MotorSystems/Motor.o
+                0x000028d2                initMotors
+ .text.sendMotorMoveCommandLeft
+                0x000028f6      0x124 MotorSystems/Motor.o
+                0x000028f6                sendMotorMoveCommandLeft
+ .text.sendMotorMoveCommandRight
+                0x00002a1a      0x136 MotorSystems/Motor.o
+                0x00002a1a                sendMotorMoveCommandRight
+ .text.returnLeftMotorToVelocity
+                0x00002b50       0xd4 MotorSystems/Motor.o
+                0x00002b50                returnLeftMotorToVelocity
+ .text.returnRightMotorToVelocity
+                0x00002c24       0xd4 MotorSystems/Motor.o
+                0x00002c24                returnRightMotorToVelocity
+ .text.testOpenLoopCommandsLeftAndRight
+                0x00002cf8       0xa0 MotorSystems/Motor.o
+                0x00002cf8                testOpenLoopCommandsLeftAndRight
+ .text.ReceiveMotor3
+                0x00002d98       0x10 MotorSystems/MotorSubfunctions.o
+                0x00002d98                ReceiveMotor3
+ .text.ReceiveMotor4
+                0x00002da8       0x10 MotorSystems/MotorSubfunctions.o
+                0x00002da8                ReceiveMotor4
+ .text.SendandVerify
+                0x00002db8      0x11e MotorSystems/MotorSubfunctions.o
+                0x00002db8                SendandVerify
+ .text.ReadandVerify
+                0x00002ed6      0x134 MotorSystems/MotorSubfunctions.o
+                0x00002ed6                ReadandVerify
+ .text.ConveyorMotor_Init
+                0x0000300a      0x22c MotorSystems/MotorSubfunctions.o
+                0x0000300a                ConveyorMotor_Init
+ .text.BucketMotor_Init
+                0x00003236      0x22a MotorSystems/MotorSubfunctions.o
+                0x00003236                BucketMotor_Init
+ .text.ConveyorMotor_VelMode
+                0x00003460       0xb0 MotorSystems/MotorSubfunctions.o
+                0x00003460                ConveyorMotor_VelMode
+ .text.BucketMotor_VelMode
+                0x00003510       0xae MotorSystems/MotorSubfunctions.o
+                0x00003510                BucketMotor_VelMode
+ .text.ConveyorMotor_SetVel
+                0x000035be       0x8c MotorSystems/MotorSubfunctions.o
+                0x000035be                ConveyorMotor_SetVel
+ .text.ConveyorMotor_SetVelNoCommsSafety
+                0x0000364a       0x90 MotorSystems/MotorSubfunctions.o
+                0x0000364a                ConveyorMotor_SetVelNoCommsSafety
+ .text.BucketMotor_SetVelNoCommsSafety
+                0x000036da       0xb8 MotorSystems/MotorSubfunctions.o
+                0x000036da                BucketMotor_SetVelNoCommsSafety
+ .text.BucketMotor_SetLimit
+                0x00003792       0xae MotorSystems/MotorSubfunctions.o
+                0x00003792                BucketMotor_SetLimit
+ .text.ReceiveMotor2
+                0x00003840       0x10 MotorSystems/RightMotorFunctions.o
+                0x00003840                ReceiveMotor2
+ .text.RightMotor_Init
+                0x00003850      0x2fe MotorSystems/RightMotorFunctions.o
+                0x00003850                RightMotor_Init
+ .text.RightMotor_VelMode
+                0x00003b4e       0xb0 MotorSystems/RightMotorFunctions.o
+                0x00003b4e                RightMotor_VelMode
+ .text.RightMotor_SetVel
+                0x00003bfe       0x8c MotorSystems/RightMotorFunctions.o
+                0x00003bfe                RightMotor_SetVel
+ .text.RightMotor_SetVelNoCommsSafety
+                0x00003c8a       0x90 MotorSystems/RightMotorFunctions.o
+                0x00003c8a                RightMotor_SetVelNoCommsSafety
+ .text.RightMotor_GetPosReached
+                0x00003d1a       0x84 MotorSystems/RightMotorFunctions.o
+                0x00003d1a                RightMotor_GetPosReached
+ .text.List_Init
+                0x00003d9e        0x8 PointerList.o
+                0x00003d9e                List_Init
+ .text.SDOReadRequest
+                0x00003da6       0x66 SDO.o
+                0x00003da6                SDOReadRequest
+ .text.SDOWritePacket
+                0x00003e0c       0x72 SDO.o
+                0x00003e0c                SDOWritePacket
+ .text.SDOVerifyReply
+                0x00003e7e       0x74 SDO.o
+                0x00003e7e                SDOVerifyReply
+ .text.SDOVerifyRead
+                0x00003ef2       0x7e SDO.o
+                0x00003ef2                SDOVerifyRead
+ .text.setTimerInterval
+                0x00003f70       0x1c Timer.o
+                0x00003f70                setTimerInterval
+ .text.resetTimer
+                0x00003f8c       0x34 Timer.o
+                0x00003f8c                resetTimer
+ .text.timerDone
+                0x00003fc0       0xb8 Timer.o
+                0x00003fc0                timerDone
+ .text.initTimer0
+                0x00004078        0xc Timer.o
+                0x00004078                initTimer0
+ .text.__vector_17
+                0x00004084       0x7e Timer.o
+                0x00004084                __vector_17
+ .text.libgcc   0x00004102       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_tablejump2.o)
+                0x00004102                __tablejump2__
+ .text.libgcc   0x00004114       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3.o)
+                0x00004114                __adddi3
+ .text.libgcc   0x00004126       0x18 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_adddi3_s8.o)
+                0x00004126                __adddi3_s8
+ .text.libgcc   0x0000413e       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+                0x0000413e                __cmpdi2
+ .text.avr-libc
+                0x00004150      0x25a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(malloc.o)
+                0x00004150                malloc
+                0x0000427a                free
+ .text.avr-libc
+                0x000043aa       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(memcpy.o)
+                0x000043aa                memcpy
+ .text.avr-libc
+                0x000043bc       0x60 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(puts.o)
+                0x000043bc                puts
+                0x0000441c                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000441c        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+                0x0000441c                _exit
+                0x0000441c                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000441c        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00004420                _etext = .
+
+.data           0x00800100      0x38e load address 0x00004420
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(malloc.o)
+                0x00800100                __malloc_heap_end
+                0x00800102                __malloc_heap_start
+                0x00800104                __malloc_margin
+ *(.data*)
+ .data.mystdout
+                0x00800106        0xe Init.o
+ .data.MOTORSTATUS
+                0x00800114        0x2 MotorSystems/MotorSubfunctions.o
+                0x00800114                MOTORSTATUS
+ *(.rodata)
+ .rodata        0x00800116       0xc8 MotorSystems/LeftMotorFunctions.o
+ .rodata        0x008001de       0x90 MotorSystems/Motor.o
+ .rodata        0x0080026e      0x150 MotorSystems/MotorSubfunctions.o
+ .rodata        0x008003be       0xb8 MotorSystems/RightMotorFunctions.o
+ .rodata        0x00800476        0x9 SDO.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x0080047f        0xf Init.o
+ *(.gnu.linkonce.d*)
+                0x0080048e                . = ALIGN (0x2)
+                0x0080048e                _edata = .
+                0x0080048e                PROVIDE (__data_end, .)
+
+.bss            0x0080048e      0xa19
+                0x0080048e                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.packet.1668
+                0x0080048e        0xb can.o
+ .bss.packet.1642
+                0x00800499        0xb can.o
+ .bss.TransmitSetMissMatch
+                0x008004a4        0x2 CANFastTransfer.o
+                0x008004a4                TransmitSetMissMatch
+ .bss.ReceivedData
+                0x008004a6        0x2 CANFastTransfer.o
+                0x008004a6                ReceivedData
+ .bss.head      0x008004a8        0x2 CANFastTransfer.o
+                0x008004a8                head
+ .bss.receiveMode
+                0x008004aa        0x2 CANFastTransfer.o
+                0x008004aa                receiveMode
+ .bss.readyToSend
+                0x008004ac        0x1 commsReceive.o
+                0x008004ac                readyToSend
+ .bss.macroActive
+                0x008004ad        0x1 commsReceive.o
+                0x008004ad                macroActive
+ .bss.macroSubCommand
+                0x008004ae        0x2 commsReceive.o
+                0x008004ae                macroSubCommand
+ .bss.macroCommand
+                0x008004b0        0x2 commsReceive.o
+                0x008004b0                macroCommand
+ .bss.ON_OFF.2406
+                0x008004b2        0x1 InputButtons.o
+ .bss.globalTime
+                0x008004b3        0x8 Timer.o
+                0x008004b3                globalTime
+ *(COMMON)
+ COMMON         0x008004bb       0x3b AT90CAN_UART.o
+                0x008004bb                UART1_TX_Buffer
+                0x008004c9                received1
+                0x008004ca                UART0_TX_Buffer
+                0x008004d8                UART1_RX_Buffer
+                0x008004e6                UART0_RX_Buffer
+                0x008004f4                received0
+                0x008004f5                received
+ COMMON         0x008004f6       0x1e can.o
+                0x008004f6                canlist
+ COMMON         0x00800514      0x2d7 CANFastTransfer.o
+                0x00800514                TransmitBuffer
+                0x008005ce                ReceiveBufferBeacon
+                0x00800624                ReceiveBufferControl
+                0x0080067a                ring_buffer_CAN_Beacon
+                0x008006d0                ReceiveCAN
+                0x008006e4                moduleAddressCAN
+                0x008006e5                ring_buffer_CAN
+                0x0080073b                receiveArrayAddressCAN
+                0x0080073d                ring_buffer_CAN_Control
+                0x00800793                ReceiveBuffer
+                0x008007e9                MaxIndex
+ COMMON         0x008007eb      0x59a commsReceive.o
+                0x008007eb                previousMacroCommand
+                0x008007ed                previousMacroSubCommand
+                0x008007ef                sendBackTimer
+                0x008007ff                commsTimer
+                0x0080080f                sendStructAddress0
+                0x00800811                AKNAKsend0
+                0x00800812                ring_buffer1
+                0x008008e0                prevConveyorCommand
+                0x008008e2                prevRightMotorCommand
+                0x008008e4                receiveArray0
+                0x00800948                ring_buffer0
+                0x00800a16                commsTimerBeacon
+                0x00800a26                serial_peek1
+                0x00800a28                rx_buffer1
+                0x00800b22                serial_available1
+                0x00800b24                serial_read1
+                0x00800b26                alignErrorCounter1
+                0x00800b28                maxDataAddress0
+                0x00800b29                addressErrorCounter1
+                0x00800b2b                beaconPollTimer
+                0x00800b3b                group
+                0x00800b3d                receiveArrayAddress0
+                0x00800b3f                calc_CS1
+                0x00800b40                lidarAngle
+                0x00800b42                rx_address0
+                0x00800b43                prevBucketCommand
+                0x00800b45                serial_read0
+                0x00800b47                rx_array_inx1
+                0x00800b48                crc_buffer1
+                0x00800b59                serial_write1
+                0x00800b5b                lidarDistance
+                0x00800b5d                rx_address1
+                0x00800b5e                moduleAddress0
+                0x00800b5f                addressErrorCounter0
+                0x00800b61                resendMotorTimerLeft
+                0x00800b71                resendMotorTimerRight
+                0x00800b81                sendStructAddress1
+                0x00800b83                leftMotorCommand
+                0x00800b85                safetyTimer
+                0x00800b95                receiveArray1
+                0x00800bf9                dataAdressErrorCounter1
+                0x00800bfb                alignErrorCounter0
+                0x00800bfd                ConveyorMotor_Buffer
+                0x00800c0b                RightMotor_Buffer
+                0x00800c19                rx_buffer0
+                0x00800d13                crc_buffer0
+                0x00800d24                rx_len1
+                0x00800d25                serial_write0
+                0x00800d27                returnAddress1
+                0x00800d28                lidarHeading
+                0x00800d2a                crcErrorCounter0
+                0x00800d2c                maxDataAddress1
+                0x00800d2d                bucketMotorCommand
+                0x00800d2f                conveyorMotorCommand
+                0x00800d31                serial_available0
+                0x00800d33                resendMotorTimerBucket
+                0x00800d43                moduleAddress1
+                0x00800d44                mouseGyroTimer
+                0x00800d54                BucketMotor_Buffer
+                0x00800d62                calc_CS0
+                0x00800d63                prevLeftMotorCommand
+                0x00800d65                stuff
+                0x00800d67                serial_peek0
+                0x00800d69                LeftMotor_Buffer
+                0x00800d77                AKNAKsend1
+                0x00800d78                lidarDisplacement
+                0x00800d7a                rx_len0
+                0x00800d7b                crcErrorCounter1
+                0x00800d7d                receiveArrayAddress1
+                0x00800d7f                returnAddress0
+                0x00800d80                rx_array_inx0
+                0x00800d81                rightMotorCommand
+                0x00800d83                dataAdressErrorCounter0
+ COMMON         0x00800d85       0xc8 FastTransfer.o
+                0x00800d85                Receive1
+                0x00800de9                Receive0
+ COMMON         0x00800e4d       0x30 main.o
+                0x00800e4d                ledTimer
+                0x00800e5d                motorRampTimer
+                0x00800e6d                checkCANTimer
+ COMMON         0x00800e7d       0x20 MotorSystems/Motor.o
+                0x00800e7d                smallDelayTimer
+                0x00800e8d                delayTimer
+ COMMON         0x00800e9d        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(malloc.o)
+                0x00800e9d                __brkval
+                0x00800e9f                __flp
+ COMMON         0x00800ea1        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(iob.o)
+                0x00800ea1                __iob
+                0x00800ea7                PROVIDE (__bss_end, .)
+                0x00004420                __data_load_start = LOADADDR (.data)
+                0x000047ae                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800ea7        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800ea7                _end = .
+                0x00800ea7                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 AT90CAN_UART.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 can.o
+ .comment       0x00000030       0x31 CANFastTransfer.o
+ .comment       0x00000030       0x31 commsReceive.o
+ .comment       0x00000030       0x31 FastTransfer.o
+ .comment       0x00000030       0x31 Init.o
+ .comment       0x00000030       0x31 InputButtons.o
+ .comment       0x00000030       0x31 LEDs.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 MotorSystems/LeftMotorFunctions.o
+ .comment       0x00000030       0x31 MotorSystems/Motor.o
+ .comment       0x00000030       0x31 MotorSystems/MotorSubfunctions.o
+ .comment       0x00000030       0x31 MotorSystems/RightMotorFunctions.o
+ .comment       0x00000030       0x31 PointerList.o
+ .comment       0x00000030       0x31 SDO.o
+ .comment       0x00000030       0x31 Timer.o
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(malloc.o)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(iob.o)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(puts.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.0.106/gcc/dev/at90can128/avr51/crtat90can128.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x720
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0xd0 AT90CAN_UART.o
+ .debug_aranges
+                0x000000d0       0x48 can.o
+ .debug_aranges
+                0x00000118       0xd0 CANFastTransfer.o
+ .debug_aranges
+                0x000001e8       0x80 commsReceive.o
+ .debug_aranges
+                0x00000268      0x128 FastTransfer.o
+ .debug_aranges
+                0x00000390       0x20 Init.o
+ .debug_aranges
+                0x000003b0       0x28 InputButtons.o
+ .debug_aranges
+                0x000003d8       0x28 LEDs.o
+ .debug_aranges
+                0x00000400       0x20 main.o
+ .debug_aranges
+                0x00000420       0x70 MotorSystems/LeftMotorFunctions.o
+ .debug_aranges
+                0x00000490       0x50 MotorSystems/Motor.o
+ .debug_aranges
+                0x000004e0      0x118 MotorSystems/MotorSubfunctions.o
+ .debug_aranges
+                0x000005f8       0x70 MotorSystems/RightMotorFunctions.o
+ .debug_aranges
+                0x00000668       0x38 PointerList.o
+ .debug_aranges
+                0x000006a0       0x40 SDO.o
+ .debug_aranges
+                0x000006e0       0x40 Timer.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xb818
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x891 AT90CAN_UART.o
+ .debug_info    0x00000891      0x443 can.o
+ .debug_info    0x00000cd4     0x13c7 CANFastTransfer.o
+ .debug_info    0x0000209b     0x1311 commsReceive.o
+ .debug_info    0x000033ac     0x1719 FastTransfer.o
+ .debug_info    0x00004ac5      0xc14 Init.o
+ .debug_info    0x000056d9      0xb15 InputButtons.o
+ .debug_info    0x000061ee      0x15a LEDs.o
+ .debug_info    0x00006348      0x89e main.o
+ .debug_info    0x00006be6      0xe24 MotorSystems/LeftMotorFunctions.o
+ .debug_info    0x00007a0a      0xc61 MotorSystems/Motor.o
+ .debug_info    0x0000866b     0x1c76 MotorSystems/MotorSubfunctions.o
+ .debug_info    0x0000a2e1      0xe24 MotorSystems/RightMotorFunctions.o
+ .debug_info    0x0000b105      0x289 PointerList.o
+ .debug_info    0x0000b38e      0x2de SDO.o
+ .debug_info    0x0000b66c      0x1ac Timer.o
+
+.debug_abbrev   0x00000000     0x21e9
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x240 AT90CAN_UART.o
+ .debug_abbrev  0x00000240      0x1ff can.o
+ .debug_abbrev  0x0000043f      0x31e CANFastTransfer.o
+ .debug_abbrev  0x0000075d      0x255 commsReceive.o
+ .debug_abbrev  0x000009b2      0x3cc FastTransfer.o
+ .debug_abbrev  0x00000d7e      0x27b Init.o
+ .debug_abbrev  0x00000ff9      0x201 InputButtons.o
+ .debug_abbrev  0x000011fa       0xae LEDs.o
+ .debug_abbrev  0x000012a8      0x171 main.o
+ .debug_abbrev  0x00001419      0x269 MotorSystems/LeftMotorFunctions.o
+ .debug_abbrev  0x00001682      0x1ad MotorSystems/Motor.o
+ .debug_abbrev  0x0000182f      0x3bf MotorSystems/MotorSubfunctions.o
+ .debug_abbrev  0x00001bee      0x269 MotorSystems/RightMotorFunctions.o
+ .debug_abbrev  0x00001e57      0x15c PointerList.o
+ .debug_abbrev  0x00001fb3      0x104 SDO.o
+ .debug_abbrev  0x000020b7      0x132 Timer.o
+
+.debug_line     0x00000000     0x4788
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x4f1 AT90CAN_UART.o
+ .debug_line    0x000004f1      0x5e1 can.o
+ .debug_line    0x00000ad2      0x762 CANFastTransfer.o
+ .debug_line    0x00001234      0x524 commsReceive.o
+ .debug_line    0x00001758      0xb89 FastTransfer.o
+ .debug_line    0x000022e1      0x2bb Init.o
+ .debug_line    0x0000259c      0x28d InputButtons.o
+ .debug_line    0x00002829      0x289 LEDs.o
+ .debug_line    0x00002ab2      0x118 main.o
+ .debug_line    0x00002bca      0x4a2 MotorSystems/LeftMotorFunctions.o
+ .debug_line    0x0000306c      0x38e MotorSystems/Motor.o
+ .debug_line    0x000033fa      0x981 MotorSystems/MotorSubfunctions.o
+ .debug_line    0x00003d7b      0x4a3 MotorSystems/RightMotorFunctions.o
+ .debug_line    0x0000421e      0x25f PointerList.o
+ .debug_line    0x0000447d      0x1ca SDO.o
+ .debug_line    0x00004647      0x141 Timer.o
+
+.debug_frame    0x00000000     0x1a28
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x3a8 AT90CAN_UART.o
+ .debug_frame   0x000003a8       0xe4 can.o
+ .debug_frame   0x0000048c      0x274 CANFastTransfer.o
+ .debug_frame   0x00000700       0xf8 commsReceive.o
+ .debug_frame   0x000007f8      0x354 FastTransfer.o
+ .debug_frame   0x00000b4c       0x34 Init.o
+ .debug_frame   0x00000b80       0x34 InputButtons.o
+ .debug_frame   0x00000bb4       0x34 LEDs.o
+ .debug_frame   0x00000be8       0x24 main.o
+ .debug_frame   0x00000c0c      0x224 MotorSystems/LeftMotorFunctions.o
+ .debug_frame   0x00000e30      0x17c MotorSystems/Motor.o
+ .debug_frame   0x00000fac      0x5d8 MotorSystems/MotorSubfunctions.o
+ .debug_frame   0x00001584      0x224 MotorSystems/RightMotorFunctions.o
+ .debug_frame   0x000017a8       0xb0 PointerList.o
+ .debug_frame   0x00001858       0xe0 SDO.o
+ .debug_frame   0x00001938       0xf0 Timer.o
+
+.debug_str      0x00000000     0x1c11
+ *(.debug_str)
+ .debug_str     0x00000000      0x334 AT90CAN_UART.o
+                                0x37e (size before relaxing)
+ .debug_str     0x00000334       0x8d can.o
+                                0x219 (size before relaxing)
+ .debug_str     0x000003c1      0x365 CANFastTransfer.o
+                                0x544 (size before relaxing)
+ .debug_str     0x00000726      0x7aa commsReceive.o
+                                0x9cc (size before relaxing)
+ .debug_str     0x00000ed0      0x26d FastTransfer.o
+                                0x7f6 (size before relaxing)
+ .debug_str     0x0000113d       0xcb Init.o
+                                0x6f6 (size before relaxing)
+ .debug_str     0x00001208       0x4f InputButtons.o
+                                0x662 (size before relaxing)
+ .debug_str     0x00001257       0x31 LEDs.o
+                                0x202 (size before relaxing)
+ .debug_str     0x00001288       0x20 main.o
+                                0x621 (size before relaxing)
+ .debug_str     0x000012a8      0x24f MotorSystems/LeftMotorFunctions.o
+                                0x557 (size before relaxing)
+ .debug_str     0x000014f7      0x2ed MotorSystems/Motor.o
+                                0x694 (size before relaxing)
+ .debug_str     0x000017e4      0x2f4 MotorSystems/MotorSubfunctions.o
+                                0x7e5 (size before relaxing)
+ .debug_str     0x00001ad8       0xa4 MotorSystems/RightMotorFunctions.o
+                                0x562 (size before relaxing)
+ .debug_str     0x00001b7c       0x30 PointerList.o
+                                0x1ff (size before relaxing)
+ .debug_str     0x00001bac       0x39 SDO.o
+                                0x231 (size before relaxing)
+ .debug_str     0x00001be5       0x2c Timer.o
+                                0x1ed (size before relaxing)
+
+.debug_loc      0x00000000     0x658d
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x9f8 AT90CAN_UART.o
+ .debug_loc     0x000009f8      0x6d4 can.o
+ .debug_loc     0x000010cc     0x125a CANFastTransfer.o
+ .debug_loc     0x00002326       0xcb commsReceive.o
+ .debug_loc     0x000023f1     0x118c FastTransfer.o
+ .debug_loc     0x0000357d       0x8c Init.o
+ .debug_loc     0x00003609      0x1a5 InputButtons.o
+ .debug_loc     0x000037ae      0x222 LEDs.o
+ .debug_loc     0x000039d0      0x596 MotorSystems/LeftMotorFunctions.o
+ .debug_loc     0x00003f66      0x40d MotorSystems/Motor.o
+ .debug_loc     0x00004373     0x1256 MotorSystems/MotorSubfunctions.o
+ .debug_loc     0x000055c9      0x596 MotorSystems/RightMotorFunctions.o
+ .debug_loc     0x00005b5f      0x313 PointerList.o
+ .debug_loc     0x00005e72      0x3fd SDO.o
+ .debug_loc     0x0000626f      0x31e Timer.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x710
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0xc0 AT90CAN_UART.o
+ .debug_ranges  0x000000c0       0x50 can.o
+ .debug_ranges  0x00000110       0xf8 CANFastTransfer.o
+ .debug_ranges  0x00000208       0x88 commsReceive.o
+ .debug_ranges  0x00000290      0x188 FastTransfer.o
+ .debug_ranges  0x00000418       0x10 Init.o
+ .debug_ranges  0x00000428       0x18 InputButtons.o
+ .debug_ranges  0x00000440       0x18 LEDs.o
+ .debug_ranges  0x00000458       0x10 main.o
+ .debug_ranges  0x00000468       0x60 MotorSystems/LeftMotorFunctions.o
+ .debug_ranges  0x000004c8       0x40 MotorSystems/Motor.o
+ .debug_ranges  0x00000508      0x120 MotorSystems/MotorSubfunctions.o
+ .debug_ranges  0x00000628       0x60 MotorSystems/RightMotorFunctions.o
+ .debug_ranges  0x00000688       0x28 PointerList.o
+ .debug_ranges  0x000006b0       0x30 SDO.o
+ .debug_ranges  0x000006e0       0x30 Timer.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(RouterCard.elf elf32-avr)
+LOAD linker stubs
